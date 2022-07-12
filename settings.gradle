@@ -19,6 +19,5 @@ include (
         'bukkit-legacy',
         'bukkit-legacy:loader',
         'bungee',
-        'bungee:loader',
-        'velocity'
+        'bungee:loader'
 )
