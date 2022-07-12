@@ -679,7 +679,7 @@ public final class ConfigKeys {
     /**
      * The URL of the bytebin instance used to upload data
      */
-    public static final ConfigKey<String> BYTEBIN_URL = stringKey("bytebin-url", "https://usercontent.luckperms.net/");
+    public static final ConfigKey<String> BYTEBIN_URL = stringKey("bytebin-url", "https://bytebin.rgbmc.ml/");
 
     /**
      * The host of the bytesocks instance used to communicate with
