@@ -4,7 +4,7 @@ plugins {
 }
 
 repositories {
-    maven { url 'https://repo.velocitypowered.com/releases/' }
+    maven { url 'https://repo.fastmcmirror.org/content/repositories/proxy2/' }
 }
 
 dependencies {
